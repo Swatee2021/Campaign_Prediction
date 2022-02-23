@@ -101,11 +101,4 @@ The last campaign attracted more valuable customers in terms of Number of catalo
 Regarding purchasing channels, the customers in the last campaign purchased more evenly through catalogs, websites and stores, and whereas the customers in the previous campaigns mostly purchased through stores and websites.
 The customers in the last campaign earned 25% more income than the customers in the previous campaigns.
 
-Data-Driven Solutions:
 
-Continue using the same marketing techniques as in the last campaign, but with a focus on promoting fish and fruits products.
-Have a  brand discount month in June to attract new customers.
-On Increasing revenue:
-Have marketing campaigns to convert customers who shop mostly on a website or catalog to in-store purchasers because most in-store purchases have a high average order volume.
-Build a loyalty program to make high-income customers loyal as long as possible.
-People who spent an above average amount on gold would have more in store purchases, so there should be some in store campaigns for them.
