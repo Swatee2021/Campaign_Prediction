@@ -8,6 +8,7 @@ The modified dataset for this project is provided by Dr. Omar Romero-Hernandez. 
 
 ##Feature Information:
 ID: Customer’s unique identifier
+
 Year_Birth: Customer’s birth year
 Education: Customer’s education level
 Marital_Status: Customer’s marital status
